@@ -1,0 +1,28 @@
+/* style.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #f0f2f5;
+    font-family: Arial, sans-serif;
+  }
+  
+  .counter {
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 25px;
+    border: 10px;
+    border-radius: 8px;
+    box-shadow:0 0 20px #141618;
+    background-color: #353b42;
+    color: white;
+    transition: background 0.3s;
+    
+  }
+
+  
